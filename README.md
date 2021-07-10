@@ -15,3 +15,9 @@ arduino Pro micro
 スイッチがオンの状態で走り出す
 １０秒毎に走り状態か歩き状態か切り替える
 
+## 配線図
+作成中
+↓参考画像
+![01](public/image/01.jpg)
+![02](public/image/02.jpg)
+
